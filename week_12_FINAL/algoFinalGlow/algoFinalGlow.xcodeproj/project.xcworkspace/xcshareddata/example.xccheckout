@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>18CD6D51-B9B1-4836-9C65-D6AAA271548F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>02749F60-9BB3-49D5-9C3A-694B13DD4454</key>
+		<string>https://github.com/bschorr/schorr_algo2013</string>
+		<key>3DAA1500-C209-4D74-857F-14C7D218F054</key>
+		<string>https://github.com/bakercp/ofxOpticalFlowFarneback</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>week_12_FINAL/example-flowfarneback/example.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>02749F60-9BB3-49D5-9C3A-694B13DD4454</key>
+		<string>../../../..</string>
+		<key>3DAA1500-C209-4D74-857F-14C7D218F054</key>
+		<string>../../../../../addons/ofxOpticalFlowFarneback</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bschorr/schorr_algo2013</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>02749F60-9BB3-49D5-9C3A-694B13DD4454</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3DAA1500-C209-4D74-857F-14C7D218F054</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxOpticalFlowFarneback</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>02749F60-9BB3-49D5-9C3A-694B13DD4454</string>
+			<key>IDESourceControlWCCName</key>
+			<string>schorr_algo2013</string>
+		</dict>
+	</array>
+</dict>
+</plist>

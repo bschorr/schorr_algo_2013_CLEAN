@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7CC3EE46-AD39-46DA-B271-4BCBBCDCEB69</string>
+	<key>IDESourceControlProjectName</key>
+	<string>algoFinalPowder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08B5D906-3FCC-4B14-A717-EA0721CBC5A7</key>
+		<string>https://github.com/julapy/ofxOpticalFlowLK</string>
+		<key>1D0FE405-B18E-4C8F-B747-8224607D2903</key>
+		<string>https://github.com/bschorr/schorr_algo2013</string>
+		<key>E8226881-D375-4825-B765-D4E8A470A223</key>
+		<string>https://github.com/bakercp/ofxOpticalFlowFarneback</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>week_12_FINAL/algoFinalPowder/algoFinalPowder.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08B5D906-3FCC-4B14-A717-EA0721CBC5A7</key>
+		<string>../../../../../addons/ofxOpticalFlowLK</string>
+		<key>1D0FE405-B18E-4C8F-B747-8224607D2903</key>
+		<string>../../../..</string>
+		<key>E8226881-D375-4825-B765-D4E8A470A223</key>
+		<string>../../../../../addons/ofxOpticalFlowFarneback</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bschorr/schorr_algo2013</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D0FE405-B18E-4C8F-B747-8224607D2903</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E8226881-D375-4825-B765-D4E8A470A223</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxOpticalFlowFarneback</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08B5D906-3FCC-4B14-A717-EA0721CBC5A7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxOpticalFlowLK</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D0FE405-B18E-4C8F-B747-8224607D2903</string>
+			<key>IDESourceControlWCCName</key>
+			<string>schorr_algo2013</string>
+		</dict>
+	</array>
+</dict>
+</plist>
